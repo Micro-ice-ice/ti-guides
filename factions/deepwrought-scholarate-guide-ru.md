@@ -5,7 +5,7 @@
 Гайд предполагает стандартную партию **Twilight Imperium IV + Prophecy of Kings + Thunder’s Edge** на 6 игроков и 10 победных очков. Английские названия компонентов сохранены, поскольку устоявшейся русской локализации дополнения пока нет.
 
 <p align="center">
-  <img src="assets/deepwrought/faction-reference.png" alt="Краткая памятка фракции The Deepwrought Scholarate" width="900">
+  <img src="assets/factions/deepwrought/reference/faction-reference.png" alt="Краткая памятка фракции The Deepwrought Scholarate" width="900">
 </p>
 
 > Иллюстрации новых компонентов приведены на английском языке. Для старых технологий по возможности использованы русские карты. Текст гайда имеет приоритет над изображением, если редакции компонентов различаются.
@@ -66,7 +66,7 @@
 ### Стартовые компоненты
 
 <p align="center">
-  <img src="assets/deepwrought/home-system.png" alt="Домашняя система Deepwrought Scholarate — Ikatena" width="440">
+  <img src="assets/factions/deepwrought/reference/home-system.png" alt="Домашняя система Deepwrought Scholarate — Ikatena" width="440">
 </p>
 
 - Домашняя планета **Ikatena 4/4**.
@@ -180,9 +180,9 @@ Coexistence оправдан, если он:
 
 | Dark Energy Tap | Нейромотиваторы |
 |---|---|
-| <img src="assets/deepwrought/dark-energy-tap.png" alt="Dark Energy Tap" width="360"> | <img src="assets/deepwrought/green-technologies-ru.jpg" alt="Нейромотиваторы — русская карта технологии" width="520"> |
+| <img src="assets/technologies/common/dark-energy-tap.png" alt="Dark Energy Tap" width="360"> | <img src="assets/technologies/common/neural-motivator-ru.jpg" alt="Нейромотиваторы — русская карта технологии" width="360"> |
 
-*DET пока доступен только на английском; справа — русская базовая карта «Нейромотиваторы» (вместе с соседней картой на исходном скане).*
+*DET пока доступен только на английском; справа — отдельная русская базовая карта «Нейромотиваторы».*
 
 **Dark Energy Tap** даёт доступ к frontier tokens и полезное правило отступления. Если в партии мало фракций, планирующих исследовать пустые системы, нетронутые frontier tokens превращаются в отдельный экономический ресурс: товары, жетоны, карты действий, фрагменты реликвий и другие эффекты исследования.
 
@@ -216,9 +216,9 @@ Destroyer I стоит всего 1 ресурс и имеет Move 2, поэт�
 
 Если договориться о Gravity Drive не удалось, последовательное исследование DET, затем Gravity Drive является наиболее надёжным синим стартом.
 
-<p align="center">
-  <img src="assets/deepwrought/blue-technologies-ru.jpg" alt="Отражатели массы и Гравитационный двигатель — русские карты технологий" width="760">
-</p>
+| Отражатели массы | Гравитационный двигатель |
+|---|---|
+| <img src="assets/technologies/common/antimass-deflectors-ru.jpg" alt="Отражатели массы — русская карта технологии" width="360"> | <img src="assets/technologies/common/gravity-drive-ru.jpg" alt="Гравитационный двигатель — русская карта технологии" width="360"> |
 
 *Русские базовые карты «Отражатели массы» и «Гравитационный двигатель»: первая ситуативна, вторая почти всегда нужна для мобильности и Carrier II.*
 
@@ -295,7 +295,7 @@ Destroyer I стоит всего 1 ресурс и имеет Move 2, поэт�
 
 | Hydrothermal Mining | Radical Advancement |
 |---|---|
-| <img src="assets/deepwrought/hydrothermal-mining.jpg" alt="Hydrothermal Mining" width="360"> | <img src="assets/deepwrought/radical-advancement.jpg" alt="Radical Advancement" width="360"> |
+| <img src="assets/technologies/faction/deepwrought/hydrothermal-mining.jpg" alt="Hydrothermal Mining" width="360"> | <img src="assets/technologies/faction/deepwrought/radical-advancement.jpg" alt="Radical Advancement" width="360"> |
 
 *Обе фракционные технологии новые и пока показаны на английском. Hydrothermal Mining — экономика от Ocean-карт; Radical Advancement — переработка слабой технологии в более требовательную технологию того же цвета.*
 
@@ -527,7 +527,7 @@ Mecatol Rex в первом раунде — приятный бонус, но �
 ## Visionaria Select
 
 <p align="center">
-  <img src="assets/deepwrought/visionaria-select.png" alt="Карта прорыва Visionaria Select" width="700">
+  <img src="assets/breakthroughs/deepwrought/visionaria-select.png" alt="Карта прорыва Visionaria Select" width="700">
 </p>
 
 Visionaria позволяет каждому другому игроку:
@@ -562,7 +562,7 @@ Visionaria позволяет каждому другому игроку:
 2. **Hyper Metabolism** — 3 командных жетона вместо 2 в каждой Status Phase.
 
 <p align="center">
-  <img src="assets/deepwrought/hyper-metabolism.png" alt="Hyper Metabolism — три командных жетона вместо двух" width="420">
+  <img src="assets/technologies/common/hyper-metabolism.png" alt="Hyper Metabolism — три командных жетона вместо двух" width="420">
 </p>
 
 Hyper Metabolism особенно ценен именно в первом раунде: он успевает сработать несколько раз и окупается большим количеством дополнительных жетонов. Для его исследования партнёру нужны две зелёные предпосылки; Doctor Carrina закрывает только одну из них.
@@ -611,7 +611,7 @@ Visionaria работает на любом расстоянии, но верн�
 ## Агент Doctor Carrina
 
 <p align="center">
-  <img src="assets/deepwrought/doctor-carrina.png" alt="Агент Doctor Carrina" width="420">
+  <img src="assets/factions/deepwrought/leaders/doctor-carrina.png" alt="Агент Doctor Carrina" width="420">
 </p>
 
 Агента лучше применять:
@@ -655,7 +655,7 @@ Visionaria работает на любом расстоянии, но верн�
 ## Командир Aello и Alliance
 
 <p align="center">
-  <img src="assets/deepwrought/aello.png" alt="Командир Aello" width="420">
+  <img src="assets/factions/deepwrought/leaders/aello.png" alt="Командир Aello" width="420">
 </p>
 
 Aello позволяет другому игроку уменьшить ресурсную стоимость исследования технологии на 1. После этого вы:
@@ -722,7 +722,7 @@ Share Knowledge также является компонентной акцие�
 
 | Carrier II | Fighter II | Space Dock II | Dreadnought II |
 |---|---|---|---|
-| <img src="assets/deepwrought/carrier-ii.jpg" alt="Carrier II" width="250"> | <img src="assets/deepwrought/fighter-ii.jpg" alt="Fighter II" width="250"> | <img src="assets/deepwrought/space-dock-ii.jpg" alt="Space Dock II" width="250"> | <img src="assets/deepwrought/dreadnought-ii.jpg" alt="Dreadnought II" width="250"> |
+| <img src="assets/technologies/unit-upgrades/carrier-ii.jpg" alt="Carrier II" width="250"> | <img src="assets/technologies/unit-upgrades/fighter-ii.jpg" alt="Fighter II" width="250"> | <img src="assets/technologies/unit-upgrades/space-dock-ii.jpg" alt="Space Dock II" width="250"> | <img src="assets/technologies/unit-upgrades/dreadnought-ii.jpg" alt="Dreadnought II" width="250"> |
 
 *Практический костяк улучшений: мобильность и Capacity сначала, дешёвый экран и тяжёлый флот — по ситуации.*
 
@@ -779,7 +779,7 @@ Share Knowledge также является компонентной акцие�
 X-89 особенно полезен как средство наступления и как технология, которую опасно оставлять соперникам при попытке взять Ikatena. При угрозе наземного уничтожения можно удалить X-89 героем.
 
 <p align="center">
-  <img src="assets/deepwrought/x89-codex-45.png" alt="Актуальная кодексная версия X-89 Bacterial Weapon" width="560">
+  <img src="assets/technologies/common/x89-bacterial-weapon-codex-4.5.png" alt="Актуальная кодексная версия X-89 Bacterial Weapon" width="560">
 </p>
 
 > Здесь показана актуальная кодексная X-89: она удваивает попадания ваших бросков Bombardment и наземного боя, а также истощает каждую планету, против которой вы применили Bombardment. Старая базовая русская карта с уничтожением всей пехоты после бомбардировки для этого гайда не используется.
@@ -802,7 +802,7 @@ X-89 особенно полезен как средство наступлен�
 ### Eanautic
 
 <p align="center">
-  <img src="assets/deepwrought/deepwrought-mech.jpg" alt="Мех Eanautic" width="430">
+  <img src="assets/factions/deepwrought/units/eanautic.jpg" alt="Мех Eanautic" width="430">
 </p>
 
 Мех особенно ценен благодаря **Production 1**.
@@ -825,7 +825,7 @@ X-89 особенно полезен как средство наступлен�
 ### D.W.S. Luminous
 
 <p align="center">
-  <img src="assets/deepwrought/deepwrought-flagship.jpg" alt="Флагман D.W.S. Luminous" width="430">
+  <img src="assets/factions/deepwrought/units/dws-luminous.jpg" alt="Флагман D.W.S. Luminous" width="430">
 </p>
 
 Флагман получает +1 движения за каждую систему, через которую проходит и в которой уже находятся ваши юниты, даже если там присутствуют корабли других игроков.
@@ -845,7 +845,7 @@ X-89 особенно полезен как средство наступлен�
 ## Герой Ta Zern
 
 <p align="center">
-  <img src="assets/deepwrought/ta-zern.png" alt="Герой Ta Zern" width="420">
+  <img src="assets/factions/deepwrought/leaders/ta-zern.png" alt="Герой Ta Zern" width="420">
 </p>
 
 Ta Zern удаляет выбранную обычную технологию из всей партии. Каждый игрок, у которого эта технология уже была исследована, затем исследует другую технологию.
@@ -995,4 +995,4 @@ Deepwrought способен очень быстро накопить техно
 - [AsyncTI4: изображения англоязычных компонентов и актуальной X-89](https://github.com/AsyncTI4/TI4_map_generator_bot)
 - [HobbyHour: русские сканы базовых технологий](https://www.hobbyhour.ru/sumerki-imperii-karti-tehnologii/)
 
-Изображения сохранены локально в `assets/deepwrought`, поэтому гайд остаётся наглядным без доступа к интернету. Они используются как справочные материалы для личного игрового гайда; права на игровые компоненты принадлежат их правообладателям.
+Изображения сохранены локально в общей библиотеке `assets`, поэтому гайд остаётся наглядным без доступа к интернету, а карточки можно переиспользовать в других гайдах. Они используются как справочные материалы для личного игрового гайда; права на игровые компоненты принадлежат их правообладателям.
